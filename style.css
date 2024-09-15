@@ -16,3 +16,15 @@ ul {
     border: 2px soid black;
 }
 
+/* .Rights {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+} */
+
+.copyrights {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
